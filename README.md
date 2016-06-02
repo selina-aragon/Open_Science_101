@@ -53,7 +53,7 @@ addition many of the listed tools and services might be mainly relevant to
 specific contexts (disciplines), but not very useful in others. This might
 limit the usefulness of the collection itself.
 
-However, there are attemts to do such a thing (blogposts, wiki lists, etc.).
+However, there are attempts to do such a thing (blogposts, wiki lists, etc.).
 
 ### What we DO want to achieve
 
